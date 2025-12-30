@@ -26,15 +26,23 @@ Trabalho principalmente com soluções de cloud native e automação, ajudando t
 
 ---
 
-### 📊 Atividade
+### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mtavares011&theme=react-dark&hide_border=true" />
+  
+![](https://github-readme-streak-stats.herokuapp.com/?user=mtavares011&theme=dark&hide_border=true)
+  
 </div>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/mtavares011/mtavares011/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
+---
+
+### 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mtavares011/mtavares011/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mtavares011/mtavares011/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/mtavares011/mtavares011/output/github-contribution-grid-snake.svg" />
+</picture>
 
 ---
 
