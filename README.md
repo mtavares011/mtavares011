@@ -26,25 +26,28 @@ Trabalho principalmente com soluções de cloud native e automação, ajudando t
 
 ---
 
-### 🏆 GitHub Trophies
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=mtavares011&theme=darkhub&no-frame=true&column=4&margin-w=15&margin-h=15)
-
-</div>
-
----
-
 ### 📊 GitHub Stats
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mtavares011&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
-
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mtavares011&theme=dark&hide_border=true)
 
+<!-- Tenta essas opções de Top Languages (uma de cada vez, comenta as outras com <!-- -->):
+
+<!-- OPÇÃO 1 - Instância padrão -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mtavares011&layout=compact&theme=dark&hide_border=true&langs_count=8)
+
+<!-- OPÇÃO 2 - Instância alternativa 1 -->
+<!-- ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mtavares011&layout=compact&theme=dark&hide_border=true&langs_count=8) -->
+
+<!-- OPÇÃO 3 - Instância alternativa 2 -->
+<!-- ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mtavares011&layout=compact&theme=dark&hide_border=true&langs_count=8) -->
+
+<!-- OPÇÃO 4 - Layout diferente (donut) -->
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mtavares011&layout=donut&theme=dark&hide_border=true) -->
+
+<!-- OPÇÃO 5 - Layout de pizza -->
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mtavares011&layout=pie&theme=dark&hide_border=true) -->
 
 </div>
 
