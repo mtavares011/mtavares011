@@ -32,22 +32,8 @@ Trabalho principalmente com soluções de cloud native e automação, ajudando t
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mtavares011&theme=dark&hide_border=true)
 
-<!-- Tenta essas opções de Top Languages (uma de cada vez, comenta as outras com <!-- -->):
-
-
-<!-- OPÇÃO 4 - Layout diferente (donut) -->
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mtavares011&layout=donut&theme=dark&hide_border=true) -->
-
-<!-- OPÇÃO 5 - Layout de pizza -->
-[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mtavares011&layout=pie&theme=dark&hide_border=true)
 
 </div>
-
----
-
-### 📈 Activity Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mtavares011&theme=react-dark&hide_border=true&area=true)
 
 ---
 
