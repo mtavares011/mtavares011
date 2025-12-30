@@ -1,8 +1,8 @@
 ## Olá! 👋
 
-Sou Marcos Tavares, DevExp Engineer na Gorila, focado em infraestrutura e developer experience.
+Sou Marcos Tavares, SRE Engineer na Gorila, focado em infraestrutura e DevExp.
 
-Trabalho principalmente com soluções de cloud native e automação, ajudando times de desenvolvimento a serem mais produtivos.
+Trabalho principalmente com soluções de Cloud Native e automação, ajudando times de desenvolvimento a serem mais produtivos.
 
 ---
 
