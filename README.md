@@ -34,11 +34,8 @@ Trabalho principalmente com soluções de cloud native e automação, ajudando t
 
 <!-- Tenta essas opções de Top Languages (uma de cada vez, comenta as outras com <!-- -->):
 
-<!-- OPÇÃO 1 - Instância padrão -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mtavares011&layout=compact&theme=dark&hide_border=true&langs_count=8)
-
 <!-- OPÇÃO 2 - Instância alternativa 1 -->
-<!-- ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mtavares011&layout=compact&theme=dark&hide_border=true&langs_count=8) -->
+[Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mtavares011&layout=compact&theme=dark&hide_border=true&langs_count=8)
 
 <!-- OPÇÃO 3 - Instância alternativa 2 -->
 <!-- ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mtavares011&layout=compact&theme=dark&hide_border=true&langs_count=8) -->
