@@ -1,6 +1,6 @@
 ## Olá! 👋
 
-Sou Marcos Tavares, SRE Engineer na Gorila, focado em infraestrutura e DevExp.
+Meu nome é Marcos Tavares, sou SRE Engineer na Gorila, focado em infraestrutura e DevExp.
 
 Trabalho principalmente com soluções de cloud native e automação, ajudando times de desenvolvimento a serem mais produtivos.
 
@@ -18,10 +18,6 @@ Trabalho principalmente com soluções de cloud native e automação, ajudando t
   <img align="center" alt="Terraform" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg">
   <img align="center" alt="Google Cloud" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg">
   <img align="center" alt="Grafana" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg">
-  <img align="center" alt="GitHub Actions" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
-  <img align="center" alt="Ubuntu" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg">
-  <img align="center" alt="Bash" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
-  <img align="center" alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 </div>
 
 ---
