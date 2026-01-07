@@ -1,10 +1,8 @@
 ## Olá! 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F700&center=false&vCenter=true&width=600&lines=SRE+Engineer+%40+Gorila;Cloud+Native+%7C+Kubernetes+%7C+DevExp;Automação+e+Infraestrutura)](https://git.io/typing-svg)
-
 ![](https://komarev.com/ghpvc/?username=mtavares011&color=green&style=flat-square&label=Profile+Views)
 
-Sou Marcos Tavares, SRE Engineer na Gorila, focado em infraestrutura e DevExp.
+Me chamo Marcos Tavares, sou SRE Engineer na Gorila, focado em infraestrutura e DevExp.
 
 Trabalho principalmente com soluções de cloud native e automação, ajudando times de desenvolvimento a serem mais produtivos.
 
@@ -37,15 +35,6 @@ Trabalho principalmente com soluções de cloud native e automação, ajudando t
 
 ---
 
-### 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mtavares011/mtavares011/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mtavares011/mtavares011/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/mtavares011/mtavares011/output/github-contribution-grid-snake.svg" />
-</picture>
-
----
 
 ### 📫 Contatos
 
